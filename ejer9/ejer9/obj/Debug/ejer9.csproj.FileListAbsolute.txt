@@ -1,0 +1,9 @@
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\ejer9\ejer9\bin\Debug\ejer9.exe.config
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\ejer9\ejer9\bin\Debug\ejer9.exe
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\ejer9\ejer9\bin\Debug\ejer9.pdb
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\ejer9\ejer9\obj\Debug\ejer9.csprojResolveAssemblyReference.cache
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\ejer9\ejer9\obj\Debug\ejer9.Form1.resources
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\ejer9\ejer9\obj\Debug\ejer9.Properties.Resources.resources
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\ejer9\ejer9\obj\Debug\ejer9.csproj.GenerateResource.Cache
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\ejer9\ejer9\obj\Debug\ejer9.exe
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\ejer9\ejer9\obj\Debug\ejer9.pdb

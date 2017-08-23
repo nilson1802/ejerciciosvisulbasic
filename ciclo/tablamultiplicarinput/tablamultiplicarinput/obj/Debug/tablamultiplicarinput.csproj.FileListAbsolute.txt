@@ -1,0 +1,9 @@
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\tablamultiplicarinput\tablamultiplicarinput\bin\Debug\tablamultiplicarinput.exe.config
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\tablamultiplicarinput\tablamultiplicarinput\bin\Debug\tablamultiplicarinput.exe
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\tablamultiplicarinput\tablamultiplicarinput\bin\Debug\tablamultiplicarinput.pdb
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\tablamultiplicarinput\tablamultiplicarinput\obj\Debug\tablamultiplicarinput.csprojResolveAssemblyReference.cache
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\tablamultiplicarinput\tablamultiplicarinput\obj\Debug\tablamultiplicarinput.Form1.resources
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\tablamultiplicarinput\tablamultiplicarinput\obj\Debug\tablamultiplicarinput.Properties.Resources.resources
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\tablamultiplicarinput\tablamultiplicarinput\obj\Debug\tablamultiplicarinput.csproj.GenerateResource.Cache
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\tablamultiplicarinput\tablamultiplicarinput\obj\Debug\tablamultiplicarinput.exe
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\tablamultiplicarinput\tablamultiplicarinput\obj\Debug\tablamultiplicarinput.pdb

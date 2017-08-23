@@ -1,0 +1,9 @@
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\nominatrabajadoresinput\nominatrabajadoresinput\bin\Debug\nominatrabajadoresinput.exe.config
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\nominatrabajadoresinput\nominatrabajadoresinput\bin\Debug\nominatrabajadoresinput.exe
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\nominatrabajadoresinput\nominatrabajadoresinput\bin\Debug\nominatrabajadoresinput.pdb
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\nominatrabajadoresinput\nominatrabajadoresinput\obj\Debug\nominatrabajadoresinput.csprojResolveAssemblyReference.cache
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\nominatrabajadoresinput\nominatrabajadoresinput\obj\Debug\nominatrabajadoresinput.Form1.resources
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\nominatrabajadoresinput\nominatrabajadoresinput\obj\Debug\nominatrabajadoresinput.Properties.Resources.resources
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\nominatrabajadoresinput\nominatrabajadoresinput\obj\Debug\nominatrabajadoresinput.csproj.GenerateResource.Cache
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\nominatrabajadoresinput\nominatrabajadoresinput\obj\Debug\nominatrabajadoresinput.exe
+C:\Users\INSTRUTOR\Documents\Visual Studio 2012\Projects\nominatrabajadoresinput\nominatrabajadoresinput\obj\Debug\nominatrabajadoresinput.pdb
